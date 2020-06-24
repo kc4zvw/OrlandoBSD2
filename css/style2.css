@@ -135,21 +135,31 @@ p {
     margin-left: 3em;
     font-family: Tahoma, Verdana, Segoe, sans-serif;
     line-height: 2em;
-    font-size: 1.2em;
+    font-size: 1.4em;
     font-weight: 400;
 }
 
+p.large {
+    margin-bottom: 1.5em;
+    margin-left: 3em;
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    line-height: 2em;
+    font-size: 1.8em;
+    font-weight: 400;
+}
 ul {
     margin-left: 3em;
     font-family: Tahoma, Verdana, Segoe, sans-serif;
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-weight: 400;
 }
 
-li {
+li.item {
     list-style: none;
-    margin-bottom: 1.5em;
+    margin-bottom: 1.0em;
     margin-left: 1em;
+    font-size: 1.1em;
+    font-weight: 300;
 }
 
 a {
