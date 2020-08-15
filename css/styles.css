@@ -55,14 +55,15 @@ data-show-count {
 /** TEXT TAG & IMG **/
 
 h1 {
-    font-size: 2.4em;
-    padding: 0.5em;
-    color: white;
-    text-align: center;
-    line-height: 1em;
-    font-family: Tahoma, Verdana, Segoe, sans-serif;
-    font-weight: 500;
+	font-size: 1.5em;
+	padding: 0.25em;
+	color: white;
+	text-align: center;
+	line-height: 0.75em;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: 450;
 }
+
 h2 {
     font-size: 1.8em;
     margin-bottom: 1em;
